@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42e01f29-74c5-45c5-90c6-91da9993d2c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fZN2zWUUEMx1I9zu0aNxXOWjYk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e01f29-74c5-45c5-90c6-91da9993d2c5" name="Default Changelist" comment="" />
+      <created>1596421451938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596421451938</updated>
+      <workItem from="1596421461094" duration="676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596422112575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-85.1366.984@0.0.1366.728" timestamp="1596422112575" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1596422148372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-85.1366.984@0.0.1366.728" timestamp="1596422148372" />
+    <state x="1458" y="7" width="1182" height="800" key="DiffContextDialog" timestamp="1596421676884">
+      <screen x="1366" y="-85" width="1366" height="984" />
+    </state>
+    <state x="1458" y="7" width="1182" height="800" key="DiffContextDialog/0.0.1366.728/1366.-85.1366.984@1366.-85.1366.984" timestamp="1596421676884" />
+    <state x="1829" y="162" key="FileChooserDialogImpl" timestamp="1596421500103">
+      <screen x="1366" y="-85" width="1366" height="984" />
+    </state>
+    <state x="1829" y="162" key="FileChooserDialogImpl/0.0.1366.728/1366.-85.1366.984@1366.-85.1366.984" timestamp="1596421500103" />
+    <state x="1550" y="49" key="SettingsEditor" timestamp="1596421521915">
+      <screen x="1366" y="-85" width="1366" height="984" />
+    </state>
+    <state x="1550" y="49" key="SettingsEditor/0.0.1366.728/1366.-85.1366.984@1366.-85.1366.984" timestamp="1596421521915" />
+    <state x="275" y="166" key="Vcs.Push.Dialog.v2" timestamp="1596421818680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="166" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-85.1366.984@0.0.1366.728" timestamp="1596421818680" />
+    <state x="1641" y="140" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-85.1366.984@1366.-85.1366.984" timestamp="1596421698386" />
+    <state x="1745" y="198" key="git4idea.merge.GitPullDialog" timestamp="1596421720653">
+      <screen x="1366" y="-85" width="1366" height="984" />
+    </state>
+    <state x="1745" y="198" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.-85.1366.984@1366.-85.1366.984" timestamp="1596421720653" />
+    <state x="57" y="59" key="new project wizard" timestamp="1596422105575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="59" key="new project wizard/0.0.1366.728/1366.-85.1366.984@0.0.1366.728" timestamp="1596422105575" />
+  </component>
+</project>
